@@ -1,0 +1,16 @@
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.exe
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.deps.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.runtimeconfig.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.runtimeconfig.dev.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\ref\SalesTransactionDemo.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\net5.0\SalesTransactionDemo.pdb
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\ref\SalesTransactionDemo.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.pdb
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 1\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\net5.0\SalesTransactionDemo.genruntimeconfig.cache

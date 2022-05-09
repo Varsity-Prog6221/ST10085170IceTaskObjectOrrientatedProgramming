@@ -1,0 +1,16 @@
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.exe
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.deps.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.runtimeconfig.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.runtimeconfig.dev.json
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\ref\DemoSquares.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\bin\Debug\net5.0\DemoSquares.pdb
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\ref\DemoSquares.dll
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.pdb
+C:\Users\Ethan\Desktop\ST10085170IceTaskObjectOrrientatedProgramming\Program 2\DemoSquares\DemoSquares\obj\Debug\net5.0\DemoSquares.genruntimeconfig.cache
